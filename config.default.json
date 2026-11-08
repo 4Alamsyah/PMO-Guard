@@ -1,0 +1,13 @@
+{
+  "message": "Stop. Kamu sudah berkomitmen berhenti. Tarik napas, berdiri, minum air, lakukan hal lain.",
+  "action": "close_tab",
+  "check_title": true,
+  "title_poll_seconds": 1.0,
+  "cooldown_seconds": 3,
+  "lock_after_hits": 3,
+  "lock_window_seconds": 600,
+  "browsers": ["chrome.exe", "msedge.exe", "firefox.exe", "brave.exe", "opera.exe", "vivaldi.exe"],
+  "block_words": ["porn", "porno", "xxx", "bokep", "hentai", "nsfw", "bugil", "ngentot", "jav"],
+  "block_contains": ["pornhub", "xvideos", "xnxx", "xhamster", "redtube", "youporn", "spankbang", "eporner", "sex video", "video sex"],
+  "block_domains": ["pornhub.com", "xvideos.com", "xnxx.com", "xhamster.com", "redtube.com", "youporn.com", "spankbang.com", "eporner.com"]
+}
